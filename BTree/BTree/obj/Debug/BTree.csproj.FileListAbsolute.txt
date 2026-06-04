@@ -1,0 +1,8 @@
+C:\Users\ibrem\source\repos\BTree\BTree\bin\Debug\BTree.exe.config
+C:\Users\ibrem\source\repos\BTree\BTree\bin\Debug\BTree.exe
+C:\Users\ibrem\source\repos\BTree\BTree\bin\Debug\BTree.pdb
+C:\Users\ibrem\source\repos\BTree\BTree\obj\Debug\BTree.csproj.AssemblyReference.cache
+C:\Users\ibrem\source\repos\BTree\BTree\obj\Debug\BTree.csproj.CoreCompileInputs.cache
+C:\Users\ibrem\source\repos\BTree\BTree\obj\Debug\BTree.exe
+C:\Users\ibrem\source\repos\BTree\BTree\obj\Debug\BTree.pdb
+C:\Users\ibrem\source\repos\BTree\BTree\obj\Debug\BTree.exe.config
